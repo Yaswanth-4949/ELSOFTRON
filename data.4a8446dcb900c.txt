@@ -1,0 +1,1 @@
+chrome-extension://dhoenijjpgpeimemopealfcbiecgceod/i18n/en.json
